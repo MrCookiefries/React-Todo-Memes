@@ -1,0 +1,9 @@
+.FormField label {
+	font-size: 1.5em;
+}
+
+.FormField input {
+	display: block;
+	margin: 0.5em 0;
+	padding: 0.25em;
+}

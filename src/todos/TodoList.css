@@ -1,0 +1,10 @@
+.TodoList h2 {
+	text-align: center;
+	font-weight: 600;
+	font-size: 2em;
+}
+
+.TodoList p {
+	text-align: center;
+	font-size: 1.25em;
+}
